@@ -24,7 +24,7 @@ public class Ejercicio3 {
             case 10 -> System.out.println("Octubre tiene 31 dias.");
             case 11 -> System.out.println("Noviembre tiene 30 dias.");
             case 12 -> System.out.println("Diciembre tiene 31 dias.");
-            default -> System.out.println("Digite incorrectamente el numero de un mes.");
+            default -> System.out.println("No introdujo un numero valido de mes.");
         }
     }
 }
